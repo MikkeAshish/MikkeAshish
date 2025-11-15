@@ -113,10 +113,8 @@ Product listing, cart system, user authentication.
 
 ---
 
-## 🕸️ Portfolio Website (Coming Soon)
-<p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Launching%20Soon-8A2BE2?style=for-the-badge" />
-</p>
+## 🕸️ Portfolio Website
+<a href="https://ashish-portfolio-snowy.vercel.app/" target="_blank">🔗 My Portfolio Website </a>
 
 A modern **dark neon-themed portfolio** is being built with:
 - ⚡ React + Tailwind CSS
